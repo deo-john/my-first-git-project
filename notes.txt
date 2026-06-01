@@ -1,1 +1,3 @@
-Hello, this is my first Git project
+commit 1: Hello, this is my first Git project
+
+commit 2: For testing purpose
